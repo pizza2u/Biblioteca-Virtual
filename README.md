@@ -44,22 +44,25 @@ Aperte Cadastrar Livro e prontinho.
 ![estrela2](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Estrela2.png)
 ##### Os livros cadastrados estão na caixinha, basta selecionar e escolher o livro para atribuir uma nota:
 ![estrela3](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/estrela3.png)
-#### depois de selecionado escolha a nota de sua preferência e ao escolher aperte OK:
+#### depois de escolhido, atribua a nota de sua preferência e ao escolher aperte OK:
 ![estrela4](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Estrela4.png)
-##### Para conferir a nota adicionada, basta clicar em MOSTRAR BIBLIOTECA,que se encontra nos termos de opções ao lado da tabela:
+##### Para conferir a nota adicionada, basta clicar em MOSTRAR BIBLIOTECA,que se encontra nos termos de opções ao lado da tabela na PÁGINA INICIAL:
 ![estrela5](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/MostrarBiblioteca1.png)
 
-##### ATENÇÃO: selecionar um livro por vez para atribuir nota.
+##### ATENÇÃO⚠️: selecionar um livro por vez para atribuir nota.
 
 ### Organização:
 Parar ordenar:
+
 ![ordenar](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Ordernar2.png)
+
 ![tabela](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Ordernar.png)
-Por titulo:
+
+##### Por titulo: Selecione o botão ORGANIZAR POR ORDEM ALFABÉTICA
 ![ordenartit](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Ordernar4.png)
-Por autor:
+##### Por autor: Selecione o botão ORGANIZAR POR AUTOR 
 ![ordenaaut]()
-Por genero:
+##### Por gênero: Selecione o botão ORGANIZAR POR GÊNERO
 ![genero](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Ordenar2Genero.png)
 ## Opções
 ![opcoes](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Opcoes.png)
