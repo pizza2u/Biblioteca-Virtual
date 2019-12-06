@@ -12,6 +12,9 @@
 #include <QInputDialog>
 #include <QFile>
 #include <erase.h>
+#include <QDesktopServices>
+#include <QUrl>
+
 
 
 QT_BEGIN_NAMESPACE
