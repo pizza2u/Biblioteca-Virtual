@@ -58,7 +58,7 @@ Parar ordenar:
 
 ![tabela](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Ordernar.png)
 
-##### Por titulo: Selecione o botão ORGANIZAR POR ORDEM ALFABÉTICA
+##### Por título: Selecione o botão ORGANIZAR POR ORDEM ALFABÉTICA
 ![ordenartit](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Ordernar4.png)
 
 ##### Por autor: Selecione o botão ORGANIZAR POR AUTOR 
