@@ -22,12 +22,14 @@ Para cadastrar os livros é simples:
 ![livro1](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/CadastroLivro1.png)
 
 Basta colocar o que pede na caixinha:
-Título
-Autor
-Quantidade de Páginas
-E o Gênero
+##### Título
+##### Autor
+##### Quantidade de Páginas
+##### E o Gênero
 ![livro2](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/CadastroLivro2.png)
+###
 ![livro3](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/CadastroLivro4.png)
+###
 ![livro4](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/CadastroLivro3.png)
 
 ##### Ao terminar aparecerá na tabela abaixo:
