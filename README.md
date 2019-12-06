@@ -83,7 +83,7 @@ Parar ordenar:
 ![editar4](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/EditadoJv.png)
 
 ##### Em seguida aparecerá as características cadastradas junto com o livro. Para manter o mesmo nome basta deixar a caixa em branco e clicar OK :
-(no exemplo apenas foi modificado o título do livro, pois o novo título pertence a mesma autora,gênero e quantidade de páginas) 
+###### (no exemplo apenas foi modificado o título do livro, pois o novo título pertence a mesma autora,gênero e quantidade de páginas) 
 ![EDI](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/NOVOAUTOR.png)
 
 ##### No final aparecerá seu livro editado:
