@@ -32,7 +32,7 @@ void MainWindow::on_pushButton_2_clicked()
     if(space.size() == 0) QMessageBox::warning(this, "Erro", "Biblioteca vazia!");
     else{
         Dialog form2;
-     
+        //form2 = new Dialog(this);
         form2.carregarVetor(space);
         form2.inicializar_Biblio(space);
         form2.setProprietario(ui->pessoa->text());
@@ -168,7 +168,7 @@ void MainWindow::on_excluir_clicked()
      if(resp == QMessageBox::Yes){
              bool ok;
 
-             QString txt = QInputDialog::getText(this, "Excluir Itens", "Digite o título do livro(igualmente a como foi cadastrado) para excluí-lo", QLineEdit::Normal,"",&ok);
+             QString txt = QInputDialog::getText(this, "Excluir Itens", "Digite o título do livro para excluí-lo", QLineEdit::Normal,"",&ok);
 
              bool apagou = false;
 

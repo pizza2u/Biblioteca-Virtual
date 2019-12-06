@@ -11,7 +11,6 @@
 #include <QVector>
 #include <QInputDialog>
 #include <QFile>
-#include <erase.h>
 #include <QDesktopServices>
 #include <QUrl>
 
@@ -69,8 +68,8 @@ private slots:
 protected:
     Ui::MainWindow *ui;
     Dialog *form2;
-    erase *edu;
-    //nota *form3;
+
+
     void inserirNaTabela(Cadastro a, int linha);
 
     void limpar();
