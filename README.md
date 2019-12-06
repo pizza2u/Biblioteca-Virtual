@@ -10,12 +10,12 @@ Ao abrir o programa, é mostrado toda interface que irá lhe auxiliar em sua bib
 ### Cadastrar nome:
 Para cadastrar o nome, basta escrever na caixa abaixo de "Proprietário da biblioteca".
 
-![cadastro](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/CadastroNome2%20(2).png)
+![cadastro](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/CadastroNome1.png)
 
 ##### Em seguida
 
 Tem o nível de experiência com livros/leitura, que fica de preferência do usuário colocar ou não.
-![cadastro2](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/CadastroNome1.png)
+![cadastro2](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/CadastroNome2%20(2).png)
 
 ### Cadastrar livro:
 Para cadastrar os livros é simples
