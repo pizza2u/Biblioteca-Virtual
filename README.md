@@ -67,10 +67,15 @@ Parar ordenar:
 ## Opções
 ![opcoes](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Opcoes.png)
 ### Editar Livro:
+ Para editar um livro, ou qualquer característica pertencente ao livro: aperte em editar
 ![editar1](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/generooooooo.png)
-![editar2](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/editadoooooo.png)
+#### O título digitado deve ser o mesmo nome o qual foi cadastrado:
 ![editar3](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/EditarEmchamas.png)
+##### Insira o novo título(para editar):
 ![editar4](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/EditadoJv.png)
+##### Em seguida aparecerá as características cadastradas junto com o livro, para manter o mesmo nome (mostrado no exemplo, pois o novo título pertence a mesma autora,gênero e quantidade de páginas) basta clicar OK:
+![EDI](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/NOVOAUTOR.png)
+##### No final aparecerá seu livro editado:
 ![EDITADO](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/editadolivroFINAL.png)
 ### Excluir Livro:
 ![excluir1](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/exclusaoporfavor.png)
