@@ -100,7 +100,7 @@ Aperte em EXCLUIR ALGUM LIVRO
 ### Mostrar Biblioteca:
 Para mostrar a biblioteca:
  Basta clicar no botão MOSTRAR BIBLIOTECA 
- ##### Aqui está sua biblioteca! Para passar e ver os outros livros bastar clicar nas setar no canto inferior direito da tela:
+ ##### Aqui está sua biblioteca! Para passar ou retornar ao livro anterior, basta clicar nas setas no canto inferior direito da tela:
  ![mostrar](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/MostrarBiblioteca.png)
 ## Finalização
 ### Salvar:
