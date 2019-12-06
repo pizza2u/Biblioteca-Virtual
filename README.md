@@ -2,7 +2,7 @@
 ## Importância da Leitura
 Além de favorecer o aprendizado de conteúdos específicos, aprimora a escrita. O contato com os livros ajuda ainda a formular e organizar uma linha de pensamento. E ensinar aos indivíduos uma nova visão de mundo.
 ## Por que usar o programa?
- Na biblioteca permitimos o serviço de cadastrar as principais informações dos seus livros, e logo em seguida adicionar notas as respectivas leituras, além de permitir a edição e exclusão dos seus livros. Ademais, mostra sua biblioteca para rever os livros já lidos e sua classificação (notas). Dispositivo direcionados para fanáticos leitores e iniciante no mundo da leitura.
+ Na biblioteca permitimos o serviço de cadastrar as principais informações dos seus livros, e logo em seguida adicionar notas as respectivas leituras, além de permitir a edição e exclusão dos seus livros. Ademais, mostra sua biblioteca para rever os livros já lidos e sua classificação (notas).Portanto, o programa terá todos os registros de livros em apenas um sistema, e assim facilitar seu acesso à definições principais dos livros cadastrados. Dispositivo direcionados para fanáticos leitores e iniciante no mundo da leitura.
 ## Como usar:
 Ao abrir o programa, é mostrado toda interface que irá lhe auxiliar em sua biblioteca virtual.
 ![mostar](https://raw.githubusercontent.com/pizza2u/Biblioteca-Virtual/master/-manual/tela-incial.png)
