@@ -12,16 +12,25 @@ Para cadastrar o nome, basta escrever na caixa abaixo de "Proprietário da bibli
 
 ![cadastro](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/CadastroNome2%20(2).png)
 
-### Em seguida
+##### Em seguida
 
 Tem o nível de experiência com livros/leitura, que fica de preferência do usuário colocar ou não.
 ![cadastro2](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/CadastroNome1.png)
 
 ### Cadastrar livro:
+Para cadastrar os livros é simples:
 ![livro1](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/CadastroLivro1.png)
+
+Basta colocar o que pede na caixinha:
+Título
+Autor
+Quantidade de Páginas
+E o Gênero
 ![livro2](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/CadastroLivro2.png)
 ![livro3](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/CadastroLivro4.png)
 ![livro4](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/CadastroLivro3.png)
+
+##### Ao terminar aparecerá na tabela abaixo:
 ![livro5](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/CadastroLivro5.png)
 ![livro6](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/CadastroLivro6.png)
 
