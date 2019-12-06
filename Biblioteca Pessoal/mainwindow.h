@@ -9,7 +9,7 @@
 #include <QFileDialog>
 #include "nota.h"
 #include <QVector>
-#include "variavel.h"
+
 #include <QInputDialog>
 #include <QFile>
 #include <erase.h>
