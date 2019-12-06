@@ -36,7 +36,12 @@ Por autor:
 ![ordenaaut]()
 Por genero:
 ![genero](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Ordenar2Genero.png)
+## Opções
+![opcoes](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Opcoes.png)
 ### Excluir Livro:
+![excluir1](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/excluir1.png)
+![ex2](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Excluir2.png)
+![ex3](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/excluir3.png)
 ### Editar Livro:
 ### Mostrar Biblioteca:
 ### Finalização:
