@@ -32,7 +32,7 @@ Basta colocar o que pede na caixinha:
 ###
 Aperte Cadastrar Livro e prontinho.
 
-##### Ao terminar, os livros cadastrados apareceram na tabela abaixo:
+##### Ao terminar, os livros cadastrados aparecerão na tabela abaixo:
 ![livro5](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/CadastroLivro5.png)
 ![livro6](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/CadastroLivro6.png)
 
@@ -40,7 +40,7 @@ Aperte Cadastrar Livro e prontinho.
 #### Para inserir notas aos livros:
 ##### Aperte na caixinha amarela  "Inserir nota"
 ![estrela1](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Estrela1.png)
-##### Logo após aparecerá essa janela abaixo:
+##### Logo após aparecerá essa janela:
 ![estrela2](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Estrela2.png)
 ##### Os livros cadastrados estão na caixinha, basta selecionar e escolher o livro para atribuir uma nota:
 ![estrela3](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/estrela3.png)
