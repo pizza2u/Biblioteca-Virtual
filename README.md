@@ -24,6 +24,7 @@ Ao abrir o programa, é mostrado toda interface que irá lhe auxiliar em sua bib
 ![estrela2](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Estrela2.png)
 ![estrela3](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/estrela3.png)
 ![estrela4](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Estrela4.png)
+![estrela5](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/MostrarBiblioteca1.png)
 
 ### Organização:
 ### Excluir Livro:
