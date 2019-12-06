@@ -43,7 +43,7 @@ Por genero:
 ![editar2](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/editadoooooo.png)
 ![editar3](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/EditarEmchamas.png)
 ![editar4](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/EditadoJv.png)
-![EDITADO](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/EDITADOFINALP.png)
+![EDITADO](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/MEUPAIAMDO.png)
 ### Excluir Livro:
 ![excluir1](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/excluir1.png)
 ![ex2](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Excluir2.png)
