@@ -117,5 +117,7 @@ Para mostrar a biblioteca:
 ![carregar3](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Carregado.png)
 ### Ajuda:
 Para mais informações, contatar através:
-email: sara.victoria1310@gmail.com
-instagram: @pizz5a
+##### email: sara.victoria1310@gmail.com
+##### instagram: @pizz5a
+![gif](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/giphy.gif)
+
