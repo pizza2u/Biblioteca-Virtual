@@ -71,15 +71,19 @@ Parar ordenar:
 ![editar1](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/generooooooo.png)
 #### O título digitado deve ser o mesmo nome o qual foi cadastrado:
 ![editar3](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/EditarEmchamas.png)
-##### Insira o novo título(para editar):
+##### Insira o novo título(para editar) e aperte OK:
 ![editar4](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/EditadoJv.png)
-##### Em seguida aparecerá as características cadastradas junto com o livro, para manter o mesmo nome (mostrado no exemplo, pois o novo título pertence a mesma autora,gênero e quantidade de páginas) basta clicar OK:
+##### Em seguida aparecerá as características cadastradas junto com o livro. Para manter o mesmo nome basta deixe a caixa em branco e clicar OK :
+(mostrado no exemplo, pois o novo título pertence a mesma autora,gênero e quantidade de páginas) 
 ![EDI](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/NOVOAUTOR.png)
 ##### No final aparecerá seu livro editado:
 ![EDITADO](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/editadolivroFINAL.png)
 ### Excluir Livro:
-![excluir1](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/exclusaoporfavor.png)
-![ex2](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Excluir2.png)
+Para excluir um livro:
+Aperte em EXCLUIR ALGUM LIVRO 
+##### Insira o mesmo título do livro que deseja excluir
+![excluir1](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/EXCLUSAOULTIMA.png)
+
 ![ex3](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/POREXCLUSAO.png)
 
 ### Mostrar Biblioteca:
