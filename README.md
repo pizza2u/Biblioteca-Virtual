@@ -125,8 +125,8 @@ Aperte finalizar
 ![carregar2](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/carregar.png)
 ##### Apertando em abrir, aparecerá seus livros cadastrados e tudo como foi salvo anteriormente.
 ![carregar3](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Carregado.png)
-### Ajuda:
-Para mais informações, contatar por:
+
+### Para mais informações, contatar por:
 ##### email: sara.victoria1310@gmail.com
 ##### instagram: @pizz5a
 ##### Engenharia Elétrica - Técnicas de Programação -IFPB -João Pessoa
