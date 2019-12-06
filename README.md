@@ -21,3 +21,6 @@ Ao abrir o programa, é mostrado toda interface que irá lhe auxiliar em sua bib
 ### Salvar:
 ### Carregar:
 ### Ajuda:
+Para mais informações, contatar através:
+email: sara.victoria1310@gmail.com
+instagram: (83)996551465
