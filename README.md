@@ -20,6 +20,11 @@ Ao abrir o programa, é mostrado toda interface que irá lhe auxiliar em sua bib
 ![livro6](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/CadastroLivro6.png)
 
 ### Inserir Nota:
+![estrela1](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Estrela1.png)
+![estrela2](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Estrela2.png)
+![estrela3](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/estrela3.png)
+![estrela4](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Estrela4.png)
+
 ### Organização:
 ### Excluir Livro:
 ### Editar Livro:
