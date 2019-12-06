@@ -27,6 +27,15 @@ Ao abrir o programa, é mostrado toda interface que irá lhe auxiliar em sua bib
 ![estrela5](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/MostrarBiblioteca1.png)
 
 ### Organização:
+Parar ordenar:
+![ordenar](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Ordernar2.png)
+![tabela](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Ordernar.png)
+Por titulo:
+![ordenartit](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Ordernar4.png)
+Por autor:
+![ordenaaut](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Ordernar3.png)
+Por genero:
+![genero](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Ordenar2Genero.png)
 ### Excluir Livro:
 ### Editar Livro:
 ### Mostrar Biblioteca:
