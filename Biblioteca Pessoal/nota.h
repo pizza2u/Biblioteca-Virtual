@@ -6,7 +6,6 @@
 #include <QDialog>
 #include <QVector>
 #include <QString>
-#include "variavel.h"
 #include <QDebug>
 
 namespace Ui {
