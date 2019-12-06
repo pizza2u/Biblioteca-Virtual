@@ -61,21 +61,21 @@ Parar ordenar:
 ##### Por titulo: Selecione o botão ORGANIZAR POR ORDEM ALFABÉTICA
 ![ordenartit](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Ordernar4.png)
 ##### Por autor: Selecione o botão ORGANIZAR POR AUTOR 
-![ordenaaut]()
+![ordenaaut](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/ORDENARPORAUTOR.png)
 ##### Por gênero: Selecione o botão ORGANIZAR POR GÊNERO
-![genero](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Ordenar2Genero.png)
+![genero](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/generooooooo.png)
 ## Opções
 ![opcoes](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Opcoes.png)
 ### Editar Livro:
-![editar1](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/EditarPrint.png)
+![editar1](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/generooooooo.png)
 ![editar2](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/editadoooooo.png)
 ![editar3](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/EditarEmchamas.png)
 ![editar4](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/EditadoJv.png)
-![EDITADO](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/MEUPAIAMDO.png)
+![EDITADO](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/editadolivroFINAL.png)
 ### Excluir Livro:
-![excluir1](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/excluir1.png)
+![excluir1](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/exclusaoporfavor.png)
 ![ex2](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Excluir2.png)
-![ex3](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/excluir3.png)
+![ex3](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/POREXCLUSAO.png)
 
 ### Mostrar Biblioteca:
 ### Finalização:
