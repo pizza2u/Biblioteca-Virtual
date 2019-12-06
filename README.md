@@ -88,6 +88,10 @@ Aperte em EXCLUIR ALGUM LIVRO
 ![ex3](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/POREXCLUSAO.png)
 
 ### Mostrar Biblioteca:
+Para mostrar a biblioteca:
+ Basta clicar no botão MOSTRAR BIBLIOTECA 
+ ##### Aqui está sua biblioteca! Para passar e ver os outros livros bastar clicar nas setar no canto inferior direito da tela:
+ ![mostrar](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/MostrarBiblioteca.png)
 ### Finalização:
 ### Salvar:
 ![fim](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/terminar.png)
