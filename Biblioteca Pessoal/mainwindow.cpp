@@ -157,6 +157,14 @@ void MainWindow::on_pushButton_4_clicked()
         inserirNaTabela(space[i],i);
 }
 }
+void MainWindow::on_gen_clicked()
+{
+    ui->tabela->clearContents();
+    space.ordenarporGenero();
+    for(int i=0;i<space.size();i++){
+        inserirNaTabela(space[i],i);
+
+}
 
 
 
