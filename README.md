@@ -38,15 +38,28 @@ Por genero:
 ![genero](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Ordenar2Genero.png)
 ## Opções
 ![opcoes](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Opcoes.png)
+### Editar Livro:
+![editar1](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/EditarPrint.png)
+![editar2]()
 ### Excluir Livro:
 ![excluir1](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/excluir1.png)
 ![ex2](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Excluir2.png)
 ![ex3](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/excluir3.png)
-### Editar Livro:
+
 ### Mostrar Biblioteca:
 ### Finalização:
 ### Salvar:
+![fim](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/terminar.png)
+//
+![fim2](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/terminoi.png)
+//
+![fim3](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/salvaree.png)
+//
+![fim4](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/salvar.png)
 ### Carregar:
+![carregar](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/salvaree.png)
+![carregar2](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/carregar.png)
+![carregar3](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Carregado.png)
 ### Ajuda:
 Para mais informações, contatar através:
 email: sara.victoria1310@gmail.com
