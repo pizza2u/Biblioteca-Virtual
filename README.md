@@ -33,7 +33,7 @@ Parar ordenar:
 Por titulo:
 ![ordenartit](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Ordernar4.png)
 Por autor:
-![ordenaaut](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Ordernar3.png)
+![ordenaaut]()
 Por genero:
 ![genero](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Ordenar2Genero.png)
 ### Excluir Livro:
