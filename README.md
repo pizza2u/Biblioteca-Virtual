@@ -4,7 +4,7 @@ Além de favorecer o aprendizado de conteúdos específicos, aprimora a escrita.
 ## Pra quê usar o programa?
  Na biblioteca permitimos o serviço de cadastrar as principais informações dos seus livros, e logo em seguida adicionar notas as respectivas leituras, além de permitir a edição e exclusão dos seus livros. Ademais, mostrar sua biblioteca para rever os livros já lidos e sua classificação (notas). Dispositivo direcionados para fanáticos leitores e iniciante no mundo da leitura.
 ## Como usar:
-![mostar]([https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/tela-incial.png](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/tela-incial.png))
+![stack Overflow](http://lmsotfy.com/so.png)
 
 ### Cadastrar nome:
 
