@@ -73,7 +73,7 @@ Parar ordenar:
 ### Editar Livro:
  Para editar um livro, ou qualquer característica pertencente ao livro: aperte em editar
 ![editar1](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/generooooooo.png)
-##### Vai mostrar essa janela:
+##### Vai mostrar essa janela e então aperte YES:
 ![editarr](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/EditarPrint.png)
 
 #### O título digitado deve ser o mesmo nome o qual foi cadastrado:
