@@ -91,7 +91,7 @@ Parar ordenar:
 Para excluir um livro:
 Aperte em EXCLUIR ALGUM LIVRO 
 ##### Insira o mesmo título do livro que deseja excluir
-![excluir1]
+![excluir1](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/EXCLUSAOULTIMA.png)
 
 ##### Prontinho, livro excluído
 
