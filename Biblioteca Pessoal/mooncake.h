@@ -8,7 +8,8 @@
 #include "cadastro.h"
 #include "algorithm"
 #include <QDebug>
-
+#include <QDesktopServices>
+#include <QUrl>
 
 
 class mooncake : public Cadastro

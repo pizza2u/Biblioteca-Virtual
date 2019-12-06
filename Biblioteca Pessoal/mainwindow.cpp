@@ -44,7 +44,8 @@ void MainWindow::on_pushButton_2_clicked()
 
 void MainWindow::on_pushButton_3_clicked()
 {
-   QMessageBox::warning(this,"Ajuda","Consulte o manual: https://github.com/pizza2u/Biblioteca-Virtual/blob/master/README.md !");
+   QUrl url = QUrl("https://github.com/pizza2u/Biblioteca-Virtual/blob/master/README.md");
+   QDesktopServices::openUrl(url);
 }
 
 void MainWindow::on_cadastrar_clicked()

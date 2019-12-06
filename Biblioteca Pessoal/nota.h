@@ -6,6 +6,7 @@
 #include <QDialog>
 #include <QVector>
 #include <QString>
+
 #include <QDebug>
 
 namespace Ui {
