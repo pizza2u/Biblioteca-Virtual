@@ -108,7 +108,7 @@ Ao terminar tudo:
 Aperte finalizar
 ##### Aparecerá uma indicação de como salvar sua biblioteca
 ![fim](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/terminar.png)
-//
+####
 ![fim2](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/terminoi.png)
 ##### Ao apertar THE END e clicar em SALVAR, você será direcionado para seu computador, onde poderá escolher ou criar uma pasta para salvar os livros e notas cadastradas:
 ![fim3](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/salvaree.png)
