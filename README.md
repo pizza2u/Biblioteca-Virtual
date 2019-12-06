@@ -82,7 +82,7 @@ Parar ordenar:
 ##### Insira o novo título(para editar) e aperte OK:
 ![editar4](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/EditadoJv.png)
 
-##### Em seguida aparecerá as características cadastradas junto com o livro. Para manter o mesmo nome basta deixe a caixa em branco e clicar OK :
+##### Em seguida aparecerá as características cadastradas junto com o livro. Para manter o mesmo nome basta deixar a caixa em branco e clicar OK :
 (no exemplo apenas foi modificado o título do livro, pois o novo título pertence a mesma autora,gênero e quantidade de páginas) 
 ![EDI](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/NOVOAUTOR.png)
 
@@ -102,7 +102,7 @@ Aperte em EXCLUIR ALGUM LIVRO
 ### Mostrar Biblioteca:
 Para mostrar a biblioteca:
  Basta clicar no botão MOSTRAR BIBLIOTECA 
- ##### Aqui está sua biblioteca! Para passar ou retornar ao livro anterior, basta clicar nas setas no canto inferior direito da tela:
+ ##### Aqui está sua biblioteca! Para passar pro próximo livro clique na seta > ; Para voltar ao anterior clique na seta < :
  ![mostrar](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/MostrarBiblioteca.png)
 ## Finalização
 ### Salvar:
