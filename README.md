@@ -8,7 +8,7 @@ Ao abrir o programa, é mostrado toda interface que irá lhe auxiliar em sua bib
 ![mostar](https://raw.githubusercontent.com/pizza2u/Biblioteca-Virtual/master/-manual/tela-incial.png)
 
 ### Cadastrar nome:
-
+![mostar](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/CadastroNome2.png)
 
 ### Cadastrar livro:
 
