@@ -165,6 +165,7 @@ void MainWindow::on_gen_clicked()
         inserirNaTabela(space[i],i);
 
 }
+}
 
 
 
