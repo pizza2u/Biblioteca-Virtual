@@ -9,7 +9,6 @@
 #include <QFileDialog>
 #include "nota.h"
 #include <QVector>
-
 #include <QInputDialog>
 #include <QFile>
 #include <erase.h>
@@ -61,6 +60,8 @@ private slots:
     void on_editar_clicked();
 
     void on_finish_clicked();
+
+    void on_gen_clicked();
 
 protected:
     Ui::MainWindow *ui;

@@ -10,6 +10,7 @@ MainWindow::MainWindow(QWidget *parent)
 {
     ui->setupUi(this);
     ui->tabela->setColumnWidth(0,200);
+    ui->tabela->setColumnWidth(1,200);
 
 }
 
@@ -43,7 +44,7 @@ void MainWindow::on_pushButton_2_clicked()
 
 void MainWindow::on_pushButton_3_clicked()
 {
-   QMessageBox::StandardButton resp = QMessageBox::question(this,"Ajuda","Consulte o manual: !");
+   QMessageBox::warning(this,"Ajuda","Consulte o manual: https://github.com/pizza2u/Biblioteca-Virtual/blob/master/README.md !");
 }
 
 void MainWindow::on_cadastrar_clicked()
@@ -157,15 +158,6 @@ void MainWindow::on_pushButton_4_clicked()
         inserirNaTabela(space[i],i);
 }
 }
-void MainWindow::on_gen_clicked()
-{
-    ui->tabela->clearContents();
-    space.ordenarporGenero();
-    for(int i=0;i<space.size();i++){
-        inserirNaTabela(space[i],i);
-
-}
-}
 
 
 
@@ -232,4 +224,15 @@ void MainWindow::on_editar_clicked()
 void MainWindow::on_finish_clicked()
 {
     QMessageBox::StandardButton resp = QMessageBox::question(this, "Terminei!!", "Agora clique na parte superior esquerda, lá no cantinnho onde está escrito THE END (finalizamos essa história hahaha 😉), e salve sua biblioteca apertando SALVAR!");
+}
+
+void MainWindow::on_gen_clicked()
+{
+    ui->tabela->clearContents();
+    space.ordenarporGenero();
+    for(int i=0;i<space.size();i++){
+        inserirNaTabela(space[i],i);
+
+}
+
 }
