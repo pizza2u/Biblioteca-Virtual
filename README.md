@@ -110,13 +110,14 @@ Aperte finalizar
 ![fim](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/terminar.png)
 ####
 ![fim2](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/terminoi.png)
-##### Ao apertar THE END e clicar em SALVAR, você será direcionado para seu computador, onde poderá escolher ou criar uma pasta para salvar os livros e notas cadastradas:
+##### Ao apertar THE END e clicar em SALVAR, você será direcionado para seus arquivos, onde poderá escolher ou criar uma pasta para salvar os livros e notas cadastradas:
 ![fim3](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/salvaree.png)
 ##### Em seguida apenas aperte salvar e tudo pronto!
 ![fim4](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/salvar.png)
 ### Carregar:
  Para carregar uma biblioteca salva:
- Abrar o programa e aperte no THE END e depois em CARREGAR, aparecerá seu computador.
+ Abra o programa e aperte no THE END e depois em CARREGAR, aparecerá seus arquivos.
+ ####
 ![carregar](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/salvaree.png)
 ##### em seguida, procure pela pasta onde guardou a biblioteca ou vá nos arquivos recentes.
 ![carregar2](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/carregar.png)
