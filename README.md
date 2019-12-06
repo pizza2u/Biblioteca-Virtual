@@ -60,29 +60,39 @@ Parar ordenar:
 
 ##### Por titulo: Selecione o botão ORGANIZAR POR ORDEM ALFABÉTICA
 ![ordenartit](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Ordernar4.png)
+
 ##### Por autor: Selecione o botão ORGANIZAR POR AUTOR 
 ![ordenaaut](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/ORDENARPORAUTOR.png)
+
 ##### Por gênero: Selecione o botão ORGANIZAR POR GÊNERO
 ![genero](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/generooooooo.png)
+
 ## Opções
 ![opcoes](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Opcoes.png)
+
 ### Editar Livro:
  Para editar um livro, ou qualquer característica pertencente ao livro: aperte em editar
 ![editar1](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/generooooooo.png)
+
 #### O título digitado deve ser o mesmo nome o qual foi cadastrado:
 ![editar3](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/EditarEmchamas.png)
+
 ##### Insira o novo título(para editar) e aperte OK:
 ![editar4](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/EditadoJv.png)
+
 ##### Em seguida aparecerá as características cadastradas junto com o livro. Para manter o mesmo nome basta deixe a caixa em branco e clicar OK :
 (mostrado no exemplo, pois o novo título pertence a mesma autora,gênero e quantidade de páginas) 
 ![EDI](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/NOVOAUTOR.png)
+
 ##### No final aparecerá seu livro editado:
 ![EDITADO](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/editadolivroFINAL.png)
+
 ### Excluir Livro:
 Para excluir um livro:
 Aperte em EXCLUIR ALGUM LIVRO 
 ##### Insira o mesmo título do livro que deseja excluir
-![excluir1](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/EXCLUSAOULTIMA.png)
+![excluir1]
+
 ##### Prontinho, livro excluído
 
 ![ex3](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/POREXCLUSAO.png)
@@ -92,7 +102,7 @@ Para mostrar a biblioteca:
  Basta clicar no botão MOSTRAR BIBLIOTECA 
  ##### Aqui está sua biblioteca! Para passar e ver os outros livros bastar clicar nas setar no canto inferior direito da tela:
  ![mostrar](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/MostrarBiblioteca.png)
-### Finalização:
+## Finalização
 ### Salvar:
 ![fim](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/terminar.png)
 //
