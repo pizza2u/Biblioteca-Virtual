@@ -16,7 +16,7 @@ void mooncake::salvarDados(QString file)
     QFile book(file);
     book.open(QIODevice::WriteOnly);
     for(auto cool : space){
-        QString tecl = cool.getLivro() + ";" + cool.getAutor() + ";" + cool.getGenero() + ";" + QString::number(cool.getPaginas()) + ";" + QString::number(cool.getNotas()) + "\n";
+        QString tecl = cool.getLivro() + "," + cool.getAutor() + "," + cool.getGenero() + "," + QString::number(cool.getPaginas()) + "," + QString::number(cool.getNotas()) + "\n";
            book.write(tecl.toLocal8Bit());
     }
     book.close();
