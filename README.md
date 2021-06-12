@@ -126,10 +126,8 @@ Aperte finalizar
 ##### Apertando em abrir, aparecerá seus livros cadastrados e tudo como foi salvo anteriormente.
 ![carregar3](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Carregado.png)
 
-### Para mais informações, contatar por:
-##### email: sara.victoria1310@gmail.com
-##### instagram: @pizz5a
+
 ##### Engenharia Elétrica - Técnicas de Programação -IFPB -João Pessoa
-##### Sara Victória Leite da Nóbrega
+
 ![gif](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/giphy.gif)
 
