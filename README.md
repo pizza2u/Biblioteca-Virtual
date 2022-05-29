@@ -124,7 +124,7 @@ Aperte finalizar
 ##### em seguida, procure pela pasta onde guardou a biblioteca ou vá nos arquivos recentes.
 ![carregar2](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/carregar.png)
 ##### Apertando em abrir, aparecerá seus livros cadastrados e tudo como foi salvo anteriormente.
-![carregar3](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/Carregado.png)
+![carregar3]()
 
 
 ##### Engenharia Elétrica - Técnicas de Programação -IFPB -João Pessoa
