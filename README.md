@@ -19,6 +19,7 @@ Tem o nível de experiência com livros/leitura, que fica de preferência do usu
 
 ### Cadastrar livro:
 Para cadastrar os livros é simples
+
 ![livro1](https://github.com/pizza2u/Biblioteca-Virtual/blob/master/-manual/CadastroLivro1.png)
 
 Basta colocar o que pede na caixinha:
